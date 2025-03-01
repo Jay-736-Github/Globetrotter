@@ -1,50 +1,482 @@
 [
   {
-    "city": "Paris",
-    "country": "France",
+    "city": "Stockholm",
+    "country": "Sweden",
     "clues": [
-      "This city is home to a famous tower that sparkles every night.",
-      "Known as the 'City of Love' and a hub for fashion and art."
+      "This city is built on a series of islands.",
+      "Known for its stunning Old Town and vibrant cultural scene."
     ],
     "fun_fact": [
-      "The Eiffel Tower was supposed to be dismantled after 20 years but was saved because it was useful for radio transmissions!",
-      "Paris has only one stop sign in the entire city—most intersections rely on priority-to-the-right rules."
+      "Stockholm is home to the Vasa Museum, housing the world's only preserved 17th-century ship.",
+      "The city has a strong focus on sustainability and green technology."
     ],
     "trivia": [
-      "This city is famous for its croissants and macarons. Bon appétit!",
-      "Paris was originally a Roman city called Lutetia."
+      "Stockholm hosted the 1912 Summer Olympics.",
+      "The city is famous for its design and innovation."
     ]
   },
   {
-    "city": "Tokyo",
-    "country": "Japan",
+    "city": "Cairo",
+    "country": "Egypt",
     "clues": [
-      "This city has the busiest pedestrian crossing in the world.",
-      "You can visit an entire district dedicated to anime, manga, and gaming."
+      "This city is home to the Pyramids of Giza.",
+      "Known for its rich ancient history and bustling markets."
     ],
     "fun_fact": [
-      "Tokyo was originally a small fishing village called Edo before becoming the bustling capital it is today!",
-      "More than 14 million people live in Tokyo, making it one of the most populous cities in the world."
+      "Cairo is one of the oldest continuously inhabited cities in the world.",
+      "The city is home to the Egyptian Museum, housing the world's largest collection of ancient Egyptian artifacts."
     ],
     "trivia": [
-      "The city has over 160,000 restaurants, more than any other city in the world.",
-      "Tokyo’s subway system is so efficient that train delays of just a few minutes come with formal apologies."
+      "Cairo is a major center for Arabic literature and culture.",
+      "The city has a vibrant nightlife with numerous cafes and restaurants."
     ]
   },
   {
-    "city": "New York",
-    "country": "USA",
+    "city": "Istanbul",
+    "country": "Turkey",
     "clues": [
-      "Home to a green statue gifted by France in the 1800s.",
-      "Nicknamed 'The Big Apple' and known for its Broadway theaters."
+      "This city straddles Europe and Asia across the Bosphorus Strait.",
+      "Known for its historical sites like Hagia Sophia and the Blue Mosque."
     ],
     "fun_fact": [
-      "The Statue of Liberty was originally a copper color before oxidizing to its iconic green patina.",
-      "Times Square was once called Longacre Square before being renamed in 1904."
+      "Istanbul was once the capital of the Byzantine and Ottoman Empires.",
+      "The city is famous for its bustling bazaars and markets."
     ],
     "trivia": [
-      "New York City has 468 subway stations, making it one of the most complex transit systems in the world.",
-      "The Empire State Building has its own zip code: 10118."
+      "Istanbul has a rich cultural heritage with influences from Europe and Asia.",
+      "The city is a popular destination for foodies, with dishes like kebabs and baklava."
+    ]
+  },
+  {
+    "city": "Santiago",
+    "country": "Chile",
+    "clues": [
+      "This city is nestled in the foothills of the Andes Mountains.",
+      "Known for its modern architecture and vibrant cultural scene."
+    ],
+    "fun_fact": [
+      "Santiago is home to the scenic San Cristóbal Hill.",
+      "The city has a strong focus on wine production, with nearby vineyards."
+    ],
+    "trivia": [
+      "Santiago hosted the 2005 APEC Summit.",
+      "The city is a popular destination for outdoor activities like skiing and hiking."
+    ]
+  },
+  {
+    "city": "Budapest",
+    "country": "Hungary",
+    "clues": [
+      "This city is famous for its thermal baths and stunning architecture.",
+      "Known for its rich history and cultural landmarks like the Parliament Building."
+    ],
+    "fun_fact": [
+      "Budapest is home to numerous UNESCO World Heritage Sites.",
+      "The city is famous for its traditional Hungarian cuisine, including goulash and paprikás csirke."
+    ],
+    "trivia": [
+      "Budapest hosted the 2017 FINA World Championships.",
+      "The city has a vibrant nightlife with numerous bars and clubs."
+    ]
+  },
+  {
+    "city": "Lisbon",
+    "country": "Portugal",
+    "clues": [
+      "This city is known for its historic trams and picturesque neighborhoods.",
+      "Famous for its seafood and traditional Portuguese cuisine."
+    ],
+    "fun_fact": [
+      "Lisbon is home to the Jerónimos Monastery and the Tower of Belém.",
+      "The city has a strong maritime history and is known for its Age of Discovery."
+    ],
+    "trivia": [
+      "Lisbon hosted the 2004 UEFA European Football Championship.",
+      "The city is a popular destination for surfers and beachgoers."
+    ]
+  },
+  {
+    "city": "Prague",
+    "country": "Czech Republic",
+    "clues": [
+      "This city is famous for its medieval architecture and Charles Bridge.",
+      "Known for its vibrant cultural scene and historical landmarks like the Prague Castle."
+    ],
+    "fun_fact": [
+      "Prague is home to numerous breweries and is famous for its beer culture.",
+      "The city has a rich history, having been a major center during the Renaissance."
+    ],
+    "trivia": [
+      "Prague hosted the 2009 NATO Summit.",
+      "The city is a popular destination for tourists, with over 7 million visitors annually."
+    ]
+  },
+  {
+    "city": "Vancouver",
+    "country": "Canada",
+    "clues": [
+      "This city is surrounded by mountains and waterways.",
+      "Known for its outdoor activities like skiing and hiking."
+    ],
+    "fun_fact": [
+      "Vancouver hosted the 2010 Winter Olympics.",
+      "The city is famous for its diverse cultural scene and cuisine."
+    ],
+    "trivia": [
+      "Vancouver is a major hub for film and television production.",
+      "The city has a strong focus on sustainability and green initiatives."
+    ]
+  },
+  {
+    "city": "Seoul",
+    "country": "South Korea",
+    "clues": [
+      "This city is known for its modern technology and K-pop culture.",
+      "Famous for its historical sites like Gyeongbokgung Palace."
+    ],
+    "fun_fact": [
+      "Seoul is home to the Demilitarized Zone (DMZ) between North and South Korea.",
+      "The city has a vibrant nightlife with numerous bars and clubs."
+    ],
+    "trivia": [
+      "Seoul hosted the 1988 Summer Olympics.",
+      "The city is a major center for electronics and technology innovation."
+    ]
+  },
+  {
+    "city": "Helsinki",
+    "country": "Finland",
+    "clues": [
+      "This city is known for its design and innovation.",
+      "Famous for its stunning natural beauty and lakes."
+    ],
+    "fun_fact": [
+      "Helsinki is home to numerous design museums and galleries.",
+      "The city has a strong focus on education and technology."
+    ],
+    "trivia": [
+      "Helsinki hosted the 1952 Summer Olympics.",
+      "The city is a popular destination for nature lovers and outdoor enthusiasts."
+    ]
+  },
+  {
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "clues": [
+      "This city is famous for its sustainability and green initiatives.",
+      "Known for its vibrant cultural scene and historical sites like the Tivoli Gardens."
+    ],
+    "fun_fact": [
+      "Copenhagen is home to the famous Little Mermaid statue.",
+      "The city has a strong focus on cycling and bike-friendly infrastructure."
+    ],
+    "trivia": [
+      "Copenhagen hosted the 1995 ICF Canoe Sprint World Championships.",
+      "The city is a popular destination for foodies, with a focus on New Nordic cuisine."
+    ]
+  },
+  {
+    "city": "Vienna",
+    "country": "Austria",
+    "clues": [
+      "This city is famous for its classical music heritage.",
+      "Known for its stunning architecture and historical landmarks like the Schönbrunn Palace."
+    ],
+    "fun_fact": [
+      "Vienna is home to numerous coffeehouses and is famous for its coffee culture.",
+      "The city has a rich cultural heritage with influences from Europe and the Habsburg Empire."
+    ],
+    "trivia": [
+      "Vienna hosted the 1964 and 1974 European Football Championship finals.",
+      "The city is a popular destination for opera and classical music performances."
+    ]
+  },
+  {
+    "city": "Zurich",
+    "country": "Switzerland",
+    "clues": [
+      "This city is known for its financial sector and stunning lake views.",
+      "Famous for its high standard of living and quality of life."
+    ],
+    "fun_fact": [
+      "Zurich is home to numerous international companies and financial institutions.",
+      "The city has a strong focus on innovation and technology."
+    ],
+    "trivia": [
+      "Zurich hosted the 2008 UEFA Champions League Final.",
+      "The city is a popular destination for outdoor activities like hiking and skiing."
+    ]
+  },
+  {
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "clues": [
+      "This city is famous for its canals and vibrant cultural scene.",
+      "Known for its historical sites like the Rijksmuseum and Anne Frank House."
+    ],
+    "fun_fact": [
+      "Amsterdam is home to numerous museums and art galleries.",
+      "The city has a strong focus on tolerance and diversity."
+    ],
+    "trivia": [
+      "Amsterdam hosted the 1928 Summer Olympics.",
+      "The city is a popular destination for cyclists and has numerous bike-friendly paths."
+    ]
+  },
+  {
+    "city": "Brussels",
+    "country": "Belgium",
+    "clues": [
+      "This city is known for its chocolate and beer culture.",
+      "Famous for its historical sites like the Grand Place."
+    ],
+    "fun_fact": [
+      "Brussels is home to numerous international institutions like the EU and NATO.",
+      "The city has a strong focus on cuisine, with dishes like waffles and moules-frites."
+    ],
+    "trivia": [
+      "Brussels hosted the 1958 World's Fair.",
+      "The city is a popular destination for comic book fans, being the birthplace of Tintin."
+    ]
+  },
+  {
+    "city": "Rome",
+    "country": "Italy",
+    "clues": [
+      "This city is known for its ancient history and landmarks like the Colosseum.",
+      "Famous for its cuisine, including pizza and pasta."
+    ],
+    "fun_fact": [
+      "Rome is home to the Vatican City, an independent city-state.",
+      "The city has a rich cultural heritage with influences from ancient Rome."
+    ],
+    "trivia": [
+      "Rome hosted the 1960 Summer Olympics.",
+      "The city is a popular destination for history buffs and archaeology enthusiasts."
+    ]
+  },
+  {
+    "city": "Berlin",
+    "country": "Germany",
+    "clues": [
+      "This city is known for its vibrant cultural scene and historical landmarks like the Berlin Wall.",
+      "Famous for its nightlife and modern architecture."
+    ],
+    "fun_fact": [
+      "Berlin is home to numerous museums and art galleries.",
+      "The city has a strong focus on innovation and technology."
+    ],
+    "trivia": [
+      "Berlin hosted the 1936 Summer Olympics.",
+      "The city is a popular destination for music festivals and events."
+    ]
+  },
+  {
+    "city": "Oslo",
+    "country": "Norway",
+    "clues": [
+      "This city is known for its stunning natural beauty and fjords.",
+      "Famous for its cultural landmarks like the Vigeland Sculpture Park."
+    ],
+    "fun_fact": [
+      "Oslo is home to numerous museums and art galleries.",
+      "The city has a strong focus on sustainability and green initiatives."
+    ],
+    "trivia": [
+      "Oslo hosted the 1952 Winter Olympics.",
+      "The city is a popular destination for outdoor activities like skiing and hiking."
+    ]
+  },
+  {
+    "city": "Tel Aviv",
+    "country": "Israel",
+    "clues": [
+      "This city is known for its vibrant nightlife and modern architecture.",
+      "Famous for its beaches and cultural scene."
+    ],
+    "fun_fact": [
+      "Tel Aviv is home to numerous startups and is known as the 'Startup Nation'.",
+      "The city has a strong focus on technology and innovation."
+    ],
+    "trivia": [
+      "Tel Aviv hosted the 2019 Eurovision Song Contest.",
+      "The city is a popular destination for foodies, with a focus on Middle Eastern cuisine."
+    ]
+  },
+  {
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "clues": [
+      "This city is known for its vibrant cultural scene and European-style architecture.",
+      "Famous for its tango music and dance."
+    ],
+    "fun_fact": [
+      "Buenos Aires is home to numerous theaters and opera houses.",
+      "The city has a strong focus on football, being home to Boca Juniors and River Plate."
+    ],
+    "trivia": [
+      "Buenos Aires hosted the 1978 FIFA World Cup.",
+      "The city is a popular destination for meat lovers, with its famous asados."
+    ]
+  },
+  {
+    "city": "Montreal",
+    "country": "Canada",
+    "clues": [
+      "This city is known for its French-Canadian culture and historic sites like Old Montreal.",
+      "Famous for its vibrant arts scene and festivals."
+    ],
+    "fun_fact": [
+      "Montreal is home to numerous universities and is known for its education system.",
+      "The city has a strong focus on cuisine, with dishes like poutine and smoked meat."
+    ],
+    "trivia": [
+      "Montreal hosted the 1976 Summer Olympics.",
+      "The city is a popular destination for outdoor activities like skiing and ice hockey."
+    ]
+  },
+  {
+    "city": "Sofia",
+    "country": "Bulgaria",
+    "clues": [
+      "This city is known for its ancient history and landmarks like the Alexander Nevsky Cathedral.",
+      "Famous for its thermal springs and natural beauty."
+    ],
+    "fun_fact": [
+      "Sofia is one of the oldest cities in Europe.",
+      "The city has a strong focus on education and technology."
+    ],
+    "trivia": [
+      "Sofia hosted the 2018 European Athletics Championships.",
+      "The city is a popular destination for history buffs and archaeology enthusiasts."
+    ]
+  },
+  {
+    "city": "Warsaw",
+    "country": "Poland",
+    "clues": [
+      "This city is known for its historical sites like the Old Town and Royal Castle.",
+      "Famous for its vibrant cultural scene and nightlife."
+    ],
+    "fun_fact": [
+      "Warsaw is home to numerous museums and art galleries.",
+      "The city has a strong focus on innovation and technology."
+    ],
+    "trivia": [
+      "Warsaw hosted the 2016 NATO Summit.",
+      "The city is a popular destination for foodies, with dishes like pierogi and bigos."
+    ]
+  },
+  {
+    "city": "Tallinn",
+    "country": "Estonia",
+    "clues": [
+      "This city is known for its medieval architecture and digital innovation.",
+      "Famous for its stunning natural beauty and coastal views."
+    ],
+    "fun_fact": [
+      "Tallinn is home to numerous startups and is known for its e-government services.",
+      "The city has a strong focus on technology and sustainability."
+    ],
+    "trivia": [
+      "Tallinn hosted the 2017 European Capital of Culture.",
+      "The city is a popular destination for outdoor activities like hiking and skiing."
+    ]
+  },
+  {
+    "city": "Wellington",
+    "country": "New Zealand",
+    "clues": [
+      "This city is known for its stunning natural beauty and cultural landmarks like Te Papa Museum.",
+      "Famous for its vibrant arts scene and coffee culture."
+    ],
+    "fun_fact": [
+      "Wellington is home to numerous film production companies, including Weta Workshop.",
+      "The city has a strong focus on innovation and technology."
+    ],
+    "trivia": [
+      "Wellington hosted the 2011 Rugby World Cup.",
+      "The city is a popular destination for outdoor activities like hiking and surfing."
+    ]
+  },
+  {
+    "city": "Hong Kong",
+    "country": "China",
+    "clues": [
+      "This city is known for its modern architecture and vibrant financial sector.",
+      "Famous for its stunning skyline and Victoria Peak."
+    ],
+    "fun_fact": [
+      "Hong Kong is home to numerous international companies and financial institutions.",
+      "The city has a strong focus on trade and commerce."
+    ],
+    "trivia": [
+      "Hong Kong hosted the 1997 handover ceremony from British to Chinese rule.",
+      "The city is a popular destination for shopping and dining."
+    ]
+  },
+  {
+    "city": "Singapore",
+    "country": "Singapore",
+    "clues": [
+      "This city is known for its cleanliness and modern infrastructure.",
+      "Famous for its Gardens by the Bay and Marina Bay Sands."
+    ],
+    "fun_fact": [
+      "Singapore is home to numerous gardens and parks, earning it the title 'Garden City'.",
+      "The city has a strong focus on innovation and technology."
+    ],
+    "trivia": [
+      "Singapore hosted the 2010 Summer Youth Olympics.",
+      "The city is a popular destination for foodies, with a mix of Asian cuisines."
+    ]
+  },
+  {
+    "city": "Melbourne",
+    "country": "Australia",
+    "clues": [
+      "This city is known for its cultural scene and coffee culture.",
+      "Famous for its sports events, including the Australian Open."
+    ],
+    "fun_fact": [
+      "Melbourne is home to numerous cultural institutions and museums.",
+      "The city has a strong focus on education and innovation."
+    ],
+    "trivia": [
+      "Melbourne hosted the 1956 Summer Olympics.",
+      "The city is a popular destination for foodies, with a focus on multicultural cuisine."
+    ]
+  },
+  {
+    "city": "Shanghai",
+    "country": "China",
+    "clues": [
+      "This city is known for its modern architecture and vibrant financial sector.",
+      "Famous for its stunning skyline and historical sites like the Bund."
+    ],
+    "fun_fact": [
+      "Shanghai is home to numerous international companies and financial institutions.",
+      "The city has a strong focus on trade and commerce."
+    ],
+    "trivia": [
+      "Shanghai hosted the 2010 World Expo.",
+      "The city is a popular destination for shopping and dining."
+    ]
+  },
+  {
+    "city": "Perth",
+    "country": "Australia",
+    "clues": [
+      "This city is known for its stunning natural beauty and outdoor activities.",
+      "Famous for its beaches and cultural scene."
+    ],
+    "fun_fact": [
+      "Perth is one of the most isolated major cities in the world, with unique natural landscapes.",
+      "The city boasts a thriving arts scene and vibrant community events."
+    ],
+    "trivia": [
+      "Perth hosted the 1962 British Empire and Commonwealth Games.",
+      "It is frequently rated as one of the world's most livable cities."
     ]
   }
 ]
